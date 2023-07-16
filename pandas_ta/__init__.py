@@ -57,7 +57,7 @@ Category = {
         "alma", "dema", "ema", "fwma", "hilo", "hl2", "hlc3", "hma", "ichimoku",
         "jma", "kama", "linreg", "mcgd", "midpoint", "midprice", "ohlc4",
         "pwma", "rma", "sinwma", "sma", "ssf", "supertrend", "swma", "t3",
-        "tema", "trima", "vidya", "vwap", "vwma", "wcp", "wma", "zlma"
+        "tema", "trima", "vidya", "vwap", "vwma", "evwma", "wcp", "wma", "zlma"
     ],
     # Performance
     "performance": ["log_return", "percent_return"],
