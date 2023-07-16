@@ -30,6 +30,7 @@ from .trima import trima
 from .vidya import vidya
 from .vwap import vwap
 from .vwma import vwma
+from .evwma import evwma
 from .wcp import wcp
 from .wma import wma
 from .zlma import zlma
